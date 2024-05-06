@@ -1,0 +1,6 @@
+[submodule "kantineDisplay"]
+	path = kantineDisplay
+	url = ./kantineAdmin
+[submodule "kantineAdmin"]
+	path = kantineAdmin
+	url = ./kantineAdmin
