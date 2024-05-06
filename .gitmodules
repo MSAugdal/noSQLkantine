@@ -4,3 +4,9 @@
 [submodule "noSQLkantineDisplay"]
 	path = noSQLkantineDisplay
 	url = ./noSQLkantineDisplay
+[submodule "kantineAdmin"]
+	path = kantineAdmin
+	url = git@github.com:MSAugdal/noSQLkantineAdmin.git
+[submodule "kantineDisplay"]
+	path = kantineDisplay
+	url = git@github.com:MSAugdal/noSQLkantineDisplay.git
