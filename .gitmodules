@@ -1,9 +1,3 @@
-[submodule "kantineDisplay"]
-	path = kantineDisplay
-	url = ./kantineAdmin
-[submodule "kantineAdmin"]
-	path = kantineAdmin
-	url = ./kantineAdmin
 [submodule "noSQLkantineAdmin"]
 	path = noSQLkantineAdmin
 	url = ./noSQLkantineAdmin
